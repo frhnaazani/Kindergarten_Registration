@@ -1,9 +1,3 @@
-/*
-Practical Test 2							Date : 11/02/2025
-Name : Nurul Farhana binti Azani			Matric No : 247418
-Name : Nur Aliesya Nasrina binti Ahmad		Matric No : 244815
-*/
-
 #include <iostream>
 #include <fstream>
 using namespace std;
